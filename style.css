@@ -1,7 +1,7 @@
 #navigation {
 	text-align: center;
 	font-family: 'Comfortaa', cursive;
-	font-size: 3rem;
+	font-size: 1rem;
 	background: darkmagenta;
 	margin-bottom: 100px;
 }
@@ -22,4 +22,24 @@
 .myInfo h3{
 	font-size: 40 px;
 	font-family: Times New Roman;
+}
+.mySummary h2{
+	font-size: 40 px;
+	font-family: Georgia;
+}
+.mySummary p{
+	font-size: 20 px;
+	font-family: Times;
+}
+.myDetails h2{
+	font-size: 40 px;
+	font-family: Georgia;
+}
+.myDetails h3{
+	font-size: 30 px;
+	font-family: Georgia;
+}
+.myDetails p,ul,li{
+	font-size: 20 px;
+	font-family: Times;
 }
