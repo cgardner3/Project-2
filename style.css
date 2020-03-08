@@ -1,0 +1,25 @@
+#navigation {
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
+	font-size: 3rem;
+	background: darkmagenta;
+	margin-bottom: 100px;
+}
+#name {
+	text-align: center;
+	background: aqua;
+	color: black;
+	position: fixed;
+}
+#resumeBackground {
+	text-align: center;
+	background: darkgrey;
+}
+.myInfo h1{
+	font-size: 70 px;
+	font-family: Times New Roman;
+}
+.myInfo h3{
+	font-size: 40 px;
+	font-family: Times New Roman;
+}
