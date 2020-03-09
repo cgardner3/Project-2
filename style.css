@@ -58,10 +58,16 @@
 	background: black;
 	color: red;
 }
-.rosterOfTeam {
+.rosterOfTeam ul,li{
 	font-family: 'Charm', cursive;
 	font-size: 20 px;
 	color: gold;
+}
+.rosterOfTeam strong{
+	font-family: 'Charm', cursive;
+	font-size: 20 px;
+	color: black;
+	background: gold;
 }
 .cuteEvents h2{
 	font-family: 'Clicker Script',cursive;
@@ -72,6 +78,12 @@
 	font-family: 'Jim Nightshade', cursive;
 	color: white;
 	font-size: 20 px;
+}
+.cuteEvents img{
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 7px;
+	width: 200px;
 }
 .gameFilm h2{
 	font-family: 'Clicker Script',cursive;
