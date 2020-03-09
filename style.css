@@ -16,12 +16,14 @@
 	font-family: 'Stencil',fantasy;
 	font-size: 32px;
 	color: #000080;
+	margin-bottom: 100px;
 }
 #creator{
 	font-family: 'Snell',cursive;
 	background: purple;
 	font-size: 20px;
 	color: white;
+	position: fixed;
 }
 #resumeHeader{
 	font-family: 'Times New Roman',serif;
@@ -102,4 +104,51 @@
 	font-style: normal;
 	color: #F5F5F5;
 	font-weight: bolder;
+}
+.accomplishmentsField dl, dt, strong, dd{
+	font-family: 'Andale Mono', monospace;
+	font-size: 20px;
+	font-style: normal;
+	color: violet;
+	font-weight: bold;
+}
+.playerRecords h2{
+	font-family: 'Trade Winds',cursive;
+	font-size: 40px;
+	font-style: italic;
+	color: gold;
+}
+.playerRecords h3, p{
+	font-family: 'Trade Winds',cursive;
+	font-size: 30px;
+	font-style: oblique;
+	color: #FFE4E1;
+}
+.playerRecords ol{
+	color: #00DA9A;
+	list-style-type: upper-roman;
+}
+.runningIntoTheStars h2{
+	font-family: 'Oxanium',cursive;
+	font-size: 40px;
+	font-style: italic;
+	color: silver;
+	font-weight: bold;
+}
+.runningIntoTheStars p{
+	font-family: 'Oxanium',cursive;
+	font-size: 20px;
+	color: snow;
+}
+.freeStuff h2{
+	font-family: 'Comfortaa',cursive;
+	font-size: 40px;
+	font-style: oblique;
+	color: plum;
+	font-weight: bold;
+}
+.freeStuff p{
+	font-family: 'Comfortaa',cursive;
+	font-size: 20px;
+	color: #663399;
 }
