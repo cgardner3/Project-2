@@ -17,6 +17,7 @@
 	font-size: 32px;
 	color: #000080;
 	position: fixed;
+	width: 100%;
 }
 #creator{
 	font-family: 'Snell',cursive;
@@ -32,12 +33,16 @@
 }
 .myHeadshot{
 	padding-top: 100px;
+	border-radius: 8px;
+	border: 1px solid #7FFFD4;
 }
 .myInfo h3{
 	font-family: 'Georgia', serif;
 	font-size: 20px;
 	font-style: italic;
 	color: brown;
+	background: black;
+	padding-top: 10px;
 }
 .mySummary h2{
 	font-family: 'Georgia',serif;
@@ -55,12 +60,14 @@
 	font-size: 40px;
 	font-style: italic;
 	color: #008B8B;
+	padding-top: 10px;
 }
 .myDetails h3{
 	font-family: 'Comfortaa', cursive;
-	font-size: 24px;
+	font-size: 20px;
 	font-style: normal;
 	color: darkblue;
+	padding-top: 10px;
 }
 .myDetails ul{
 	font-family: 'Comfortaa', cursive;
@@ -68,12 +75,15 @@
 	font-style: normal;
 	color: #006400;
 	list-style-type: square;
+	background: white;
+	padding-bottom: 5px;
 }
 .myDetails p{
 	font-family: 'VT323',monospace;
 	font-size: 16px;
 	font-style: normal;
 	color: #00BFFF;
+	padding-bottom: 5px;
 }
 .myDetails strong{
 	font-family: 'VT323',monospace;
