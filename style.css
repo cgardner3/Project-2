@@ -11,3 +11,27 @@
 	text-align: center;
 	background: red;
 }
+#resumeHeader{
+	font-family: 'Times New Roman',serif;
+	font-size: 64px;
+	font-style: oblique;
+	color: springgreen;
+}
+.myInfo h3{
+	font-family: 'Georgia', serif;
+	font-size: 40px;
+	font-style: italic;
+	color: brown;
+}
+.myDetails h2{
+	font-family: 'Georgia', serif;
+	font-size: 40px;
+	font-style: italic;
+	color: #008B8B;
+}
+.myDetails h3{
+	font-family: 'Comfortaa', cursive;
+	font-size: 32px;
+	font-style: normal;
+	color: darkblue;
+}
