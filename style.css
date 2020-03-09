@@ -11,6 +11,18 @@
 	text-align: center;
 	background: red;
 }
+#navigation{
+	background: yellow;
+	font-family: 'Stencil',fantasy;
+	font-size: 32px;
+	color: #000080;
+}
+#creator{
+	font-family: 'Snell',cursive;
+	background: purple;
+	font-size: 20px;
+	color: white;
+}
 #resumeHeader{
 	font-family: 'Times New Roman',serif;
 	font-size: 64px;
@@ -46,7 +58,7 @@
 	font-style: normal;
 	color: darkblue;
 }
-.myDetails ul,li{
+.myDetails ul{
 	font-family: 'Comfortaa', cursive;
 	font-size: 16px;
 	font-style: normal;
@@ -63,6 +75,6 @@
 	font-family: 'VT323',monospace;
 	font-size: 16px;
 	font-style: normal;
-	color: #00BFFF;
+	color: #8FBC8F;
 	font-weight: bold;
 }
