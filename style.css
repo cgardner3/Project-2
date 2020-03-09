@@ -1,107 +1,13 @@
-#navigation {
-	text-align: center;
-	font-family: 'Comfortaa', cursive;
-	font-size: 1rem;
-	color: white;
-	background: darkmagenta;
-	margin-bottom: 100px;
-}
-#name {
-	text-align: center;
-	background: aqua;
-	color: black;
-	position: fixed;
-}
-#resumeBackground {
-	text-align: center;
+#resumeBackground{
 	background: darkgrey;
+	text-align: center;
 }
-.myInfo h1{
-	font-size: 70 px;
-	font-family: Times New Roman;
-}
-.myInfo h3{
-	font-size: 40 px;
-	font-family: Times New Roman;
-}
-.mySummary h2{
-	font-size: 40 px;
-	font-family: Georgia;
-}
-.mySummary p{
-	font-size: 20 px;
-	font-family: Times;
-}
-.myDetails h2{
-	font-size: 40 px;
-	font-family: Georgia;
-}
-.myDetails h3{
-	font-size: 30 px;
-	font-family: Georgia;
-}
-.myDetails p,ul,li{
-	font-size: 20 px;
-	font-family: Times;
+#USSoccerInformation{
+	background-image: url(images/USAbackground.jpeg);
+	background-size: 100% 100%;
+	text-align: center;
 }
 #mySoccerFamily{
 	text-align: center;
 	background: red;
 }
-.headerField h1,h3{
-	font-family: 'Clicker Script',cursive;
-	color: white;
-}
-.headerField p{
-	font-family: Times New Roman;
-	font-size: 20 px;
-	background: black;
-	color: red;
-}
-.rosterOfTeam ul,li{
-	font-family: 'Charm', cursive;
-	font-size: 20 px;
-	color: gold;
-}
-.rosterOfTeam strong{
-	font-family: 'Charm', cursive;
-	font-size: 20 px;
-	color: black;
-	background: gold;
-}
-.cuteEvents h2{
-	font-family: 'Clicker Script',cursive;
-	color: white;
-	font-size: 40 px;
-}
-.cuteEvents p{
-	font-family: 'Jim Nightshade', cursive;
-	color: white;
-	font-size: 20 px;
-}
-.cuteEvents img{
-	border: 1px solid #ddd;
-	border-radius: 4px;
-	padding: 7px;
-	width: 200px;
-}
-.gameFilm h2{
-	font-family: 'Clicker Script',cursive;
-	color: purple;
-	font-size: 40 px;
-}
-.gameFilm p{
-	font-family: 'Jim Nightshade', cursive;
-	color: silver;
-	font-size: 20 px;
-}
-#USSoccerInformation{
-	background-image: url(images/USAbackground.jpeg);
-	background-size: 100% 100%;
-}
-.headerField{
-	font-family: 'Sacramento', cursive;
-	color: gold;
-	font-size: 40px;
-}
-.
