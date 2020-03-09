@@ -17,13 +17,13 @@
 	font-size: 32px;
 	color: #000080;
 	margin-bottom: 100px;
+	position: fixed;
 }
 #creator{
 	font-family: 'Snell',cursive;
 	background: purple;
 	font-size: 20px;
 	color: white;
-	position: fixed;
 }
 #resumeHeader{
 	font-family: 'Times New Roman',serif;
@@ -105,7 +105,7 @@
 	color: #F5F5F5;
 	font-weight: bolder;
 }
-.accomplishmentsField dl, dt, strong, dd{
+.accomplishmentsField dl, dt, dd{
 	font-family: 'Andale Mono', monospace;
 	font-size: 20px;
 	font-style: normal;
@@ -151,4 +151,36 @@
 	font-family: 'Comfortaa',cursive;
 	font-size: 20px;
 	color: #663399;
+}
+#titleHeader{
+	font-family: 'Apple Chancery',cursive;
+	font-size: 100%;
+	color: #191970;
+	font-style: oblique;
+	font-weight: bold;
+}
+.headerField p{
+	font-family: 'Jim Nightshade',cursive;
+	font-size: .875em;
+	color: #00FA9A;
+}
+#rosterHeader{
+	font-family: 'Clicker Script',cursive;
+	font-size: 1.875em;
+	color: #C71585;
+	font-style: italic;
+	font-weight: normal;
+}
+.rosterOfTeam ul{
+	list-style-type: circle;
+	font-family: 'Charm',cursive;
+	font-size: .875em;
+	color: lightpink;
+}
+.rosterOfTeam strong{
+	list-style-type: circle;
+	font-family: 'Charm',cursive;
+	font-size: .875em;
+	color: #C71585;
+	font-weight: bold;
 }
