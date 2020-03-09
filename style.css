@@ -2,6 +2,7 @@
 	text-align: center;
 	font-family: 'Comfortaa', cursive;
 	font-size: 1rem;
+	color: white;
 	background: darkmagenta;
 	margin-bottom: 100px;
 }
@@ -42,4 +43,43 @@
 .myDetails p,ul,li{
 	font-size: 20 px;
 	font-family: Times;
+}
+#mySoccerFamily{
+	text-align: center;
+	background: red;
+}
+.headerField h1,h3{
+	font-family: 'Clicker Script',cursive;
+	color: white;
+}
+.headerField p{
+	font-family: Times New Roman;
+	font-size: 20 px;
+	background: black;
+	color: red;
+}
+.rosterOfTeam {
+	font-family: 'Charm', cursive;
+	font-size: 20 px;
+	color: gold;
+}
+.cuteEvents h2{
+	font-family: 'Clicker Script',cursive;
+	color: white;
+	font-size: 40 px;
+}
+.cuteEvents p{
+	font-family: 'Jim Nightshade', cursive;
+	color: white;
+	font-size: 20 px;
+}
+.gameFilm h2{
+	font-family: 'Clicker Script',cursive;
+	color: purple;
+	font-size: 40 px;
+}
+.gameFilm p{
+	font-family: 'Jim Nightshade', cursive;
+	color: silver;
+	font-size: 20 px;
 }
