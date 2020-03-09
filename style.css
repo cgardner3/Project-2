@@ -1,5 +1,5 @@
 #resumeBackground{
-	background: darkgrey;
+	background: #2F4F4F;
 	text-align: center;
 }
 #USSoccerInformation{
@@ -16,7 +16,6 @@
 	font-family: 'Stencil',fantasy;
 	font-size: 32px;
 	color: #000080;
-	margin-bottom: 100px;
 	position: fixed;
 }
 #creator{
@@ -158,6 +157,7 @@
 	color: #191970;
 	font-style: oblique;
 	font-weight: bold;
+	margin-top: 100px;
 }
 .headerField p{
 	font-family: 'Jim Nightshade',cursive;
@@ -183,4 +183,26 @@
 	font-size: .875em;
 	color: #C71585;
 	font-weight: bold;
+}
+.cuteEvents h2{
+	font-family: 'Clicker Script',cursive;
+	font-size: 1.875em;
+	font-style: italic;
+	color: #FFE4B5;
+}
+.cuteEvents p{
+	font-family: 'Jim Nightshade',cursive;
+	font-size: .875em;
+	color: #4B0082;
+}
+.gameFilm h2{
+	font-family: 'Clicker Script',cursive;
+	font-size: 1.875;
+	font-style: italic;
+	color: lavender;
+}
+.gameFilm p{
+	font-family: 'Jim Nightshade',cursive;
+	font-size: .875em;
+	color: darkblue;
 }
