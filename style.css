@@ -30,6 +30,9 @@
 	font-style: oblique;
 	color: springgreen;
 }
+.myHeadshot{
+	padding-top: 100px;
+}
 .myInfo h3{
 	font-family: 'Georgia', serif;
 	font-size: 20px;
@@ -84,6 +87,7 @@
 	font-size: 64px;
 	font-style: oblique;
 	color: maroon;
+	padding-top: 100px;
 }
 .headerField h2{
 	font-family: 'Sacramento',cursive;
@@ -157,7 +161,7 @@
 	color: #191970;
 	font-style: oblique;
 	font-weight: bold;
-	margin-top: 100px;
+	padding-top: : 100px;
 }
 .headerField p{
 	font-family: 'Jim Nightshade',cursive;
