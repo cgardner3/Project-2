@@ -42,7 +42,7 @@
 	color: darkgreen;
 	list-style-type: square;
 }
-.myDetails p{
+.myDetails p,strong{
 	font-family: 'Comfortaa',cursive;
 	font-size: 16px;
 	font-style: normal
