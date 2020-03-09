@@ -19,7 +19,7 @@
 }
 .myInfo h3{
 	font-family: 'Georgia', serif;
-	font-size: 40px;
+	font-size: 20px;
 	font-style: italic;
 	color: brown;
 }
@@ -31,7 +31,20 @@
 }
 .myDetails h3{
 	font-family: 'Comfortaa', cursive;
-	font-size: 32px;
+	font-size: 24px;
 	font-style: normal;
 	color: darkblue;
+}
+.myDetails ul,li{
+	font-family: 'Comfortaa', cursive;
+	font-size: 16px;
+	font-style: normal;
+	color: darkgreen;
+	list-style-type: square;
+}
+.myDetails p{
+	font-family: 'Comfortaa',cursive;
+	font-size: 16px;
+	font-style: normal
+	color: deepskyblue;
 }
