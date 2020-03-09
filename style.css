@@ -95,3 +95,8 @@
 	color: silver;
 	font-size: 20 px;
 }
+#USSoccerInformation{
+	background-image: url(images/USAbackground.jpeg);
+	background-repeat: no-repeat;
+	background position: center;
+}
