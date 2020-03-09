@@ -157,11 +157,11 @@
 }
 #titleHeader{
 	font-family: 'Apple Chancery',cursive;
-	font-size: 100%;
+	font-size: 64px;
 	color: #191970;
 	font-style: oblique;
 	font-weight: bold;
-	padding-top: : 100px;
+	padding-top: 100px;
 }
 .headerField p{
 	font-family: 'Jim Nightshade',cursive;
@@ -201,7 +201,7 @@
 }
 .gameFilm h2{
 	font-family: 'Clicker Script',cursive;
-	font-size: 1.875;
+	font-size: 1.875em;
 	font-style: italic;
 	color: lavender;
 }
