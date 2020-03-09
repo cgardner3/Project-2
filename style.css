@@ -23,6 +23,17 @@
 	font-style: italic;
 	color: brown;
 }
+.mySummary h2{
+	font-family: 'Georgia',serif;
+	font-size: 40px;
+	font-style: italic;
+	color: #8B008B;
+}
+.mySummary p{
+	font-family: 'VT323',monospace;
+	font-size: 16px;
+	color: cyan;
+}
 .myDetails h2{
 	font-family: 'Georgia', serif;
 	font-size: 40px;
@@ -39,12 +50,19 @@
 	font-family: 'Comfortaa', cursive;
 	font-size: 16px;
 	font-style: normal;
-	color: darkgreen;
+	color: #006400;
 	list-style-type: square;
 }
-.myDetails p,strong{
-	font-family: 'Comfortaa',cursive;
+.myDetails p{
+	font-family: 'VT323',monospace;
 	font-size: 16px;
-	font-style: normal
-	color: deepskyblue;
+	font-style: normal;
+	color: #00BFFF;
+}
+.myDetails strong{
+	font-family: 'VT323',monospace;
+	font-size: 16px;
+	font-style: normal;
+	color: #00BFFF;
+	font-weight: bold;
 }
