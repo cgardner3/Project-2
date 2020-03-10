@@ -185,17 +185,21 @@
 	font-style: italic;
 	font-weight: normal;
 }
+.rosterOfTeam{
+	background-image: url(images/illinoistechsoccer.jpeg);
+	background-size: 100% 100%;
+}
 .rosterOfTeam ul{
 	list-style-type: circle;
 	font-family: 'Charm',cursive;
-	font-size: .875em;
-	color: lightpink;
+	font-size: 1.25em;
+	color: #00FFFF;
 }
 .rosterOfTeam strong{
 	list-style-type: circle;
 	font-family: 'Charm',cursive;
-	font-size: .875em;
-	color: #C71585;
+	font-size: 1.25em;
+	color: #8A2BE2;
 	font-weight: bold;
 }
 .cuteEvents h2{
