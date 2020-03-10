@@ -33,6 +33,7 @@
 }
 .myHeadshot img{
 	border: 10px solid #87CEFA;
+	padding-top: 30px;
 }
 .myInfo h3{
 	font-family: 'Georgia', serif;
@@ -50,7 +51,7 @@
 }
 .mySummary p{
 	font-family: 'VT323',monospace;
-	font-size: 16px;
+	font-size: 20px;
 	color: cyan;
 }
 .myDetails h2{
@@ -62,14 +63,14 @@
 }
 .myDetails h3{
 	font-family: 'Comfortaa', cursive;
-	font-size: 20px;
+	font-size: 30px;
 	font-style: normal;
 	color: darkblue;
 	padding-top: 10px;
 }
 .myDetails ul{
 	font-family: 'Comfortaa', cursive;
-	font-size: 16px;
+	font-size: 20px;
 	font-style: normal;
 	color: #006400;
 	list-style-type: square;
@@ -78,14 +79,14 @@
 }
 .myDetails p{
 	font-family: 'VT323',monospace;
-	font-size: 16px;
+	font-size: 20px;
 	font-style: normal;
 	color: #00BFFF;
 	padding-bottom: 5px;
 }
 .myDetails strong{
 	font-family: 'VT323',monospace;
-	font-size: 16px;
+	font-size: 20px;
 	font-style: normal;
 	color: #8FBC8F;
 	font-weight: bold;
