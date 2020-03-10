@@ -175,12 +175,12 @@
 }
 .headerField p{
 	font-family: 'Jim Nightshade',cursive;
-	font-size: .875em;
+	font-size: 1.25em;
 	color: #00FA9A;
 }
 #rosterHeader{
 	font-family: 'Clicker Script',cursive;
-	font-size: 1.875em;
+	font-size: 2.25em;
 	color: #C71585;
 	font-style: italic;
 	font-weight: normal;
@@ -193,12 +193,12 @@
 	list-style-type: circle;
 	font-family: 'Charm',cursive;
 	font-size: 1.5em;
-	color: #228B22;
+	color: #E6E6FA;
 }
 .rosterOfTeam strong{
 	list-style-type: circle;
 	font-family: 'Charm',cursive;
-	font-size: 1.5em;
+	font-size: 2.25em;
 	color: #FF69B4;
 	font-weight: bold;
 }
@@ -213,11 +213,16 @@
 	font-size: .875em;
 	color: #4B0082;
 }
+.cuteEvents img{
+	border: 20px solid transparent;
+	padding: 15px;
+	border-image: url(images/hawk.png) 20% round;
+}
 .gameFilm h2{
 	font-family: 'Clicker Script',cursive;
-	font-size: 1.875em;
+	font-size: 2.25em;
 	font-style: italic;
-	color: lavender;
+	color: khaki;
 }
 .gameFilm p{
 	font-family: 'Jim Nightshade',cursive;
@@ -226,5 +231,7 @@
 }
 .gameFilm embed {
 	margin: 0 auto;
+	max-width: 100%;
+	height: auto;
 	border: 20px double #7FFF00;
 }
