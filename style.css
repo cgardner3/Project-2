@@ -32,9 +32,7 @@
 	color: springgreen;
 }
 .myHeadshot img{
-	padding-top: 100px;
-	border-radius: 8px;
-	border: 1px solid #7FFFD4;
+	border: 10px solid #87CEFA;
 }
 .myInfo h3{
 	font-family: 'Georgia', serif;
@@ -162,7 +160,6 @@
 }
 .runningIntoTheStars img{
 	border: 10px solid transparent;
-	padding: 10px;
 	border-image: url(images/shiningstar.jpeg) 30% round;
 }
 .freeStuff h2{
@@ -181,8 +178,7 @@
 }
 .freeStuff img{
 	border: 10px solid transparent;
-	padding: 10px;
-	border-image: url(images/usaball.jpeg) 50% round;
+	border-image: url(images/usaball.jpeg) 25% round;
 }
 #titleHeader{
 	font-family: 'Apple Chancery',cursive;
@@ -199,8 +195,8 @@
 }
 #rosterHeader{
 	font-family: 'Clicker Script',cursive;
-	font-size: 40px;
-	color: #C71585;
+	font-size: 54px;
+	color: #FFB6C1;
 	font-style: italic;
 	font-weight: normal;
 }
@@ -212,12 +208,12 @@
 	list-style-type: circle;
 	font-family: 'Charm',cursive;
 	font-size: 1.5em;
-	color: #FF00FF;
+	color: aqua;
 }
 .rosterOfTeam strong{
 	list-style-type: circle;
 	font-family: 'Charm',cursive;
-	font-size: 2.0em;
+	font-size: 1.5em;
 	color: #FF69B4;
 	font-weight: bold;
 }
@@ -225,7 +221,7 @@
 	font-family: 'Clicker Script',cursive;
 	font-size: 3.0em;
 	font-style: italic;
-	color: #FFE4B5;
+	color: #blue;
 }
 .cuteEvents p{
 	font-family: 'Jim Nightshade',cursive;
@@ -234,7 +230,6 @@
 }
 .cuteEvents img{
 	border: 20px solid transparent;
-	padding: 15px;
 	border-image: url(images/hawk.png) 20% round;
 }
 .gameFilm h2{
@@ -245,7 +240,7 @@
 }
 .gameFilm p{
 	font-family: 'Jim Nightshade',cursive;
-	font-size: .1.5em;
+	font-size: 1.5em;
 	color: darkblue;
 }
 .gameFilm embed {
