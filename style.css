@@ -104,12 +104,14 @@
 	font-size: 40px;
 	font-style: italic;
 	color: gold;
+	padding-top: 20px;
 }
 .accomplishmentsField h2{
 	font-family: 'Cantana One',serif;
 	font-size: 40px;
 	font-style: italic;
 	color: turquoise;
+	padding-top: 20px;
 }
 .accomplishmentsField p, strong{
 	font-family: 'Cantana One',serif;
@@ -117,6 +119,7 @@
 	font-style: normal;
 	color: #F5F5F5;
 	font-weight: bolder;
+	padding-top: 10px;
 }
 .accomplishmentsField dl, dt, dd{
 	font-family: 'Andale Mono', monospace;
@@ -130,12 +133,14 @@
 	font-size: 40px;
 	font-style: italic;
 	color: gold;
+	padding-top: 30px;
 }
 .playerRecords h3, p{
 	font-family: 'Trade Winds',cursive;
 	font-size: 30px;
 	font-style: oblique;
 	color: #FFE4E1;
+	padding-top: 10px;
 }
 .playerRecords ol{
 	color: #00DA9A;
@@ -147,16 +152,18 @@
 	font-style: italic;
 	color: silver;
 	font-weight: bold;
+	padding-top: 30px;
 }
 .runningIntoTheStars p{
 	font-family: 'Oxanium',cursive;
 	font-size: 20px;
 	color: snow;
+	padding-bottom: 10px;
 }
 .runningIntoTheStars img{
 	border: 10px solid transparent;
 	padding: 10px;
-	border-image: url(images/shiningstar.jpeg);
+	border-image: url(images/shiningstar.jpeg) 30% round;
 }
 .freeStuff h2{
 	font-family: 'Comfortaa',cursive;
@@ -164,16 +171,18 @@
 	font-style: oblique;
 	color: plum;
 	font-weight: bold;
+	padding-top: 30px;
 }
 .freeStuff p{
 	font-family: 'Comfortaa',cursive;
 	font-size: 20px;
 	color: #ADFF2F;
+	padding-bottom: 10px;
 }
 .freeStuff img{
 	border: 10px solid transparent;
 	padding: 10px;
-	border-image: url(images/usaball.jpeg);
+	border-image: url(images/usaball.jpeg) 50% round;
 }
 #titleHeader{
 	font-family: 'Apple Chancery',cursive;
