@@ -153,6 +153,11 @@
 	font-size: 20px;
 	color: snow;
 }
+.runningIntoTheStars img{
+	border: 10px solid transparent;
+	padding: 10px;
+	border-image: url(images/shiningstar.jpeg);
+}
 .freeStuff h2{
 	font-family: 'Comfortaa',cursive;
 	font-size: 40px;
@@ -163,7 +168,12 @@
 .freeStuff p{
 	font-family: 'Comfortaa',cursive;
 	font-size: 20px;
-	color: #663399;
+	color: #ADFF2F;
+}
+.freeStuff img{
+	border: 10px solid transparent;
+	padding: 10px;
+	border-image: url(images/usaball.jpeg);
 }
 #titleHeader{
 	font-family: 'Apple Chancery',cursive;
@@ -193,7 +203,7 @@
 	list-style-type: circle;
 	font-family: 'Charm',cursive;
 	font-size: 1.5em;
-	color: #E6E6FA;
+	color: #FF00FF;
 }
 .rosterOfTeam strong{
 	list-style-type: circle;
