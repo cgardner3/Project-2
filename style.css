@@ -68,7 +68,7 @@
 	color: darkblue;
 	padding-top: 10px;
 }
-.myDetails ul{
+.myDetails li{
 	font-family: 'Comfortaa', cursive;
 	font-size: 20px;
 	font-style: normal;
@@ -140,7 +140,7 @@
 	color: #FFE4E1;
 	padding-top: 10px;
 }
-.playerRecords ol{
+.playerRecords li{
 	color: #00DA9A;
 	list-style-type: upper-roman;
 }
@@ -204,7 +204,7 @@
 	background-image: url(images/illinoistechsoccer.jpeg);
 	background-size: 100% 100%;
 }
-.rosterOfTeam ul{
+.rosterOfTeam li{
 	list-style-type: circle;
 	font-family: 'Charm',cursive;
 	font-size: 1.5em;
