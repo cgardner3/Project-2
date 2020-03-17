@@ -29,14 +29,15 @@
 }
 h1{
 	font-family: 'Apple Chancery',cursive;
-	font-size: 64px;
+	font-size: 72px;
 	color: white;
 	font-style: oblique;
 	font-weight: bold;
+	padding-top: 100px;
 }
 .myHeadshot img{
 	border: 10px solid #87CEFA;
-	padding-top: 30px;
+	padding-top: 50px;
 }
 .myInfo h3{
 	font-family: 'Georgia', serif;
