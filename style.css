@@ -38,6 +38,7 @@
 	font-size: 20px;
 	background: purple;
 	color: white;
+	margin-top: 20px
 	
 }
 #header{
@@ -46,6 +47,7 @@
 	color: white;
 	font-style: oblique;
 	font-weight: bold;
+	padding-bottom: 20px
 }
 .myHeadshot img{
 	border: 10px solid #87CEFA;
@@ -57,32 +59,34 @@
 	font-style: italic;
 	color: brown;
 	background: black;
-	padding-top: 10px;
+	padding-top: 20px;
 }
 .mySummary h2{
 	font-family: 'Georgia',serif;
 	font-size: 40px;
 	font-style: italic;
 	color: #8B008B;
+	padding-top: 20px;
 }
 .mySummary p{
 	font-family: 'VT323',monospace;
 	font-size: 20px;
 	color: cyan;
+	padding-top: 20px;
 }
 .myDetails h2{
 	font-family: 'Georgia', serif;
 	font-size: 40px;
 	font-style: italic;
 	color: #008B8B;
-	padding-top: 10px;
+	padding-top: 20px;
 }
 .myDetails h3{
 	font-family: 'Comfortaa', cursive;
 	font-size: 30px;
 	font-style: normal;
 	color: darkblue;
-	padding-top: 10px;
+	padding-top: 20px;
 }
 .myDetails li{
 	font-family: 'Comfortaa', cursive;
@@ -109,7 +113,8 @@
 	font-weight: bold;
 }
 .titleField{
-	margin: 100px;
+	margin-top: 100px;
+	margin-bottom: 20px;
 }
 .titleField h2{
 	font-family: 'Sacramento',cursive;
@@ -117,7 +122,6 @@
 	font-style: italic;
 	color: gold;
 	padding-top: 50px;
-	margin: 100px;
 }
 .accomplishmentsField h2{
 	font-family: 'Cantana One',serif;
@@ -140,6 +144,7 @@
 	font-style: normal;
 	color: violet;
 	font-weight: bold;
+	padding-bottom: 20px;
 }
 .playerRecords h2{
 	font-family: 'Trade Winds',cursive;
@@ -159,7 +164,7 @@
 	color: #00DA9A;
 	list-style-type: upper-roman;
 	list-style-position: inside;
-	
+	padding-bottom: 10px;
 }
 .runningIntoTheStars h2{
 	font-family: 'Oxanium',cursive;
@@ -204,6 +209,7 @@
 	font-family: 'Jim Nightshade',cursive;
 	font-size: 1.5em;
 	color: #00FA9A;
+	margin-top: 20px;
 }
 #rosterHeader{
 	font-family: 'Clicker Script',cursive;
@@ -222,7 +228,7 @@
 	font-size: 1.5em;
 	color: #00faf0;
 	list-style-position: inside;
-	
+	margin-bottom: 15px;
 }
 .rosterOfTeam strong{
 	list-style-type: circle;
@@ -241,6 +247,7 @@
 	font-family: 'Jim Nightshade',cursive;
 	font-size: 1.5em;
 	color: #4B0082;
+	padding-bottom: 15px;
 }
 .cuteEvents img{
 	border: 20px solid transparent;
@@ -256,6 +263,7 @@
 	font-family: 'Jim Nightshade',cursive;
 	font-size: 1.5em;
 	color: darkblue;
+	padding-bottom: 15px;
 }
 .gameFilm embed {
 	margin: 0 auto;
