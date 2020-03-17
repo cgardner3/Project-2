@@ -259,7 +259,7 @@ h1{
 }
 .gameFilm embed {
 	margin: 0 auto;
-	height: 500;
-	width: auto;
+	width: 500px;
+	height: auto;
 	border: 20px double #7FFF00;
 }
