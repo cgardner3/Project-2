@@ -20,9 +20,8 @@
 	width: 100%;
 }
 #creator{
-	font-family: 'Snell',cursive;
+	text-align: center;
 	background: purple;
-	font-size: 20px;
 	color: white;
 	position: fixed;
 }
