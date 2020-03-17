@@ -16,7 +16,7 @@
 	font-family: 'Stencil',fantasy;
 	font-size: 32px;
 	color: #000080;
-	position: fixed;
+	margin-bottom: 100px
 	width: 100%;
 }
 #creator{
@@ -24,12 +24,14 @@
 	background: purple;
 	font-size: 20px;
 	color: white;
+	position: fixed;
 }
-#resumeHeader{
-	font-family: 'Times New Roman',serif;
+h1{
+	font-family: 'Apple Chancery',cursive;
 	font-size: 64px;
+	color: white;
 	font-style: oblique;
-	color: springgreen;
+	font-weight: bold;
 }
 .myHeadshot img{
 	border: 10px solid #87CEFA;
@@ -91,13 +93,6 @@
 	font-style: normal;
 	color: #8FBC8F;
 	font-weight: bold;
-}
-#pageHeader{
-	font-family: 'Arial Black',sans-serif;
-	font-size: 64px;
-	font-style: oblique;
-	color: maroon;
-	padding-top: 100px;
 }
 .headerField h2{
 	font-family: 'Sacramento',cursive;
@@ -184,14 +179,6 @@
 	border: 10px solid transparent;
 	border-image: url(images/usaball.jpeg) 25% round;
 }
-#titleHeader{
-	font-family: 'Apple Chancery',cursive;
-	font-size: 64px;
-	color: #191970;
-	font-style: oblique;
-	font-weight: bold;
-	padding-top: 100px;
-}
 .headerField p{
 	font-family: 'Jim Nightshade',cursive;
 	font-size: 1.5em;
@@ -227,7 +214,7 @@
 	font-family: 'Clicker Script',cursive;
 	font-size: 3.0em;
 	font-style: italic;
-	color: #blue;
+	color: blue;
 }
 .cuteEvents p{
 	font-family: 'Jim Nightshade',cursive;
