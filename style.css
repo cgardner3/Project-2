@@ -15,6 +15,7 @@
 	background: yellow;
 	position: fixed;
 	background-color: yellow;
+	width: 100%;
 }
 #navigation ul{
 	list-style-type: none;
