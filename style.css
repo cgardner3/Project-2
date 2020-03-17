@@ -145,8 +145,7 @@
 .playerRecords li{
 	color: #00DA9A;
 	list-style-type: upper-roman;
-	display: inline-block;
-	text-align: left;
+	list-style-position: inside;
 }
 .runningIntoTheStars h2{
 	font-family: 'Oxanium',cursive;
@@ -213,8 +212,7 @@
 	font-family: 'Charm',cursive;
 	font-size: 1.5em;
 	color: aqua;
-	display: inline-block;
-	text-align: left;
+	list-style-position: inside;
 }
 .rosterOfTeam strong{
 	list-style-type: circle;
