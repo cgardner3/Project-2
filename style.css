@@ -32,7 +32,7 @@
 }
 h1{
 	font-family: 'Apple Chancery',cursive;
-	font-size: 72px;
+	font-size: 3em;
 	color: white;
 	font-style: oblique;
 	font-weight: bold;
@@ -249,8 +249,7 @@ h1{
 }
 .gameFilm embed {
 	margin: 0 auto;
-	min-height: 100%
-	min-width: 100%;
-	height: auto;
+	height: 500;
+	width: auto;
 	border: 20px double #7FFF00;
 }
