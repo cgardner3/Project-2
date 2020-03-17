@@ -36,7 +36,6 @@ h1{
 	color: white;
 	font-style: oblique;
 	font-weight: bold;
-	margin: 100px;
 }
 .myHeadshot img{
 	border: 10px solid #87CEFA;
@@ -99,7 +98,10 @@ h1{
 	color: #8FBC8F;
 	font-weight: bold;
 }
-.headerField h2{
+.titleField{
+	margin: 100px;
+}
+.titleField h2{
 	font-family: 'Sacramento',cursive;
 	font-size: 40px;
 	font-style: italic;
@@ -184,6 +186,9 @@ h1{
 .freeStuff img{
 	border: 10px solid transparent;
 	border-image: url(images/usaball.jpeg) 25% round;
+}
+.headerField{
+	margin: 100px;
 }
 .headerField p{
 	font-family: 'Jim Nightshade',cursive;
