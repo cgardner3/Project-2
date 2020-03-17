@@ -16,14 +16,16 @@
 	font-family: 'Stencil',fantasy;
 	font-size: 32px;
 	color: #000080;
-	margin-bottom: 100px
 	width: 100%;
+	position: fixed;
 }
 #creator{
+	font-family: 'Snell', cursive;
 	text-align: center;
+	font-size: 20px;
 	background: purple;
 	color: white;
-	position: fixed;
+	
 }
 h1{
 	font-family: 'Apple Chancery',cursive;
