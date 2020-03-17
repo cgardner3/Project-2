@@ -12,15 +12,19 @@
 	background: red;
 }
 #navigation{
-	background: yellow;
 	position: fixed;
 	background-color: yellow;
 	width: 100%;
+	top: 0%;
 }
 #navigation ul{
 	list-style-type: none;
 	overflow: hidden;
 	display: inline-block;
+}
+#navigation ul li{
+	float: left;
+	display: block;
 }
 #navigation ul li a{
 	color: white;
