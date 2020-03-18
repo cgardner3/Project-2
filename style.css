@@ -60,6 +60,7 @@
 	color: brown;
 	background: black;
 	padding-top: 20px;
+	padding-bottom: 20px
 }
 .mySummary h2{
 	font-family: 'Georgia',serif;
@@ -86,7 +87,7 @@
 	font-size: 30px;
 	font-style: normal;
 	color: darkblue;
-	padding-top: 20px;
+	padding-bottom: 20px;
 }
 .myDetails li{
 	font-family: 'Comfortaa', cursive;
@@ -96,7 +97,7 @@
 	background: white;
 	padding-bottom: 5px;
 	list-style-position: inside;
-
+	list-style-type: square;
 }
 .myDetails p{
 	font-family: 'VT323',monospace;
@@ -129,6 +130,7 @@
 	font-style: italic;
 	color: turquoise;
 	padding-top: 20px;
+	padding-bottom: 20px;
 }
 .accomplishmentsField p, strong{
 	font-family: 'Cantana One',serif;
@@ -144,7 +146,7 @@
 	font-style: normal;
 	color: violet;
 	font-weight: bold;
-	padding-bottom: 20px;
+	padding: 20px;
 }
 .playerRecords h2{
 	font-family: 'Trade Winds',cursive;
@@ -183,6 +185,7 @@
 .runningIntoTheStars img{
 	border: 10px solid transparent;
 	border-image: url(images/shiningstar.jpeg) 30% round;
+	padding-bottom: 15px;
 }
 .freeStuff h2{
 	font-family: 'Comfortaa',cursive;
@@ -201,6 +204,7 @@
 .freeStuff img{
 	border: 10px solid transparent;
 	border-image: url(images/usaball.jpeg) 25% round;
+	padding-bottom: 15px;
 }
 .headerField{
 	margin: 100px;
@@ -252,6 +256,7 @@
 .cuteEvents img{
 	border: 20px solid transparent;
 	border-image: url(images/hawk.png) 20% round;
+	padding-bottom: 15px;
 }
 .gameFilm h2{
 	font-family: 'Clicker Script',cursive;
@@ -270,4 +275,5 @@
 	width: 500px;
 	height: auto;
 	border: 20px double #7FFF00;
+	padding-bottom: 15px;
 }
