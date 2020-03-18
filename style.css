@@ -229,15 +229,15 @@
 .rosterOfTeam li{
 	list-style-type: circle;
 	font-family: 'Charm',cursive;
-	font-size: 1.5em;
-	color: #00faf0;
+	font-size: 1.75em;
+	color: #21de95;
 	list-style-position: inside;
 	margin-bottom: 15px;
 }
 .rosterOfTeam strong{
 	list-style-type: circle;
 	font-family: 'Charm',cursive;
-	font-size: 1.5em;
+	font-size: 1.75em;
 	color: #FF69B4;
 	font-weight: bold;
 }
