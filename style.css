@@ -3,7 +3,7 @@
 	text-align: center;
 }
 #USSoccerInformation{
-	background-image: url(images/USAbackground.jpeg);
+	background-image: url(images/usabackground.jpeg);
 	background-size: 100% 100%;
 	text-align: center;
 }
@@ -176,7 +176,7 @@
 	font-weight: bold;
 	padding-top: 30px;
 }
-.runningIntoTheStars p{
+.runningIntoTheStars figcaption{
 	font-family: 'Oxanium',cursive;
 	font-size: 20px;
 	color: snow;
@@ -195,7 +195,7 @@
 	font-weight: bold;
 	padding-top: 30px;
 }
-.freeStuff p{
+.freeStuff figcaption{
 	font-family: 'Comfortaa',cursive;
 	font-size: 20px;
 	color: #ADFF2F;
@@ -247,7 +247,7 @@
 	font-style: italic;
 	color: blue;
 }
-.cuteEvents p{
+.cuteEvents figcaption{
 	font-family: 'Jim Nightshade',cursive;
 	font-size: 1.5em;
 	color: #4B0082;
@@ -264,7 +264,7 @@
 	font-style: italic;
 	color: khaki;
 }
-.gameFilm p{
+.gameFilm figcaption{
 	font-family: 'Jim Nightshade',cursive;
 	font-size: 1.5em;
 	color: darkblue;
