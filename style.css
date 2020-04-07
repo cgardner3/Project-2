@@ -117,12 +117,12 @@ dl,dt,dd{
   list-style-position: inside;
   padding-bottom: 10px;
 }
-.memories img{
+.memorabilia img{
   border: 10px solid transparent;
   border-image: url(images/usaball.jpeg) 25% round;
   margin-bottom: 15px;
 }
-#captions{
+.memorabilia figcaption{
   font-family: 'Oxanium',cursive;
   font-size: 20px;
   color: snow;
