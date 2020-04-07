@@ -83,6 +83,20 @@
   list-style-type: square;
   font-size: 100%;
 }
+#title{
+  font-family: 'Sacramento',cursive;
+  font-size: 40px;
+  font-style: italic;
+  color: gold;
+  padding-top: 50px;
+}
+dl,dt,dd{
+  font-family: 'Andale Mono',monospace;
+  font-size: 20px;
+  color: violet;
+  font-weight: bold;
+  padding: 20px;
+}
 .headerField{
   margin: 100px;
   font-family: 'Jim Nightshade',cursive;
