@@ -120,7 +120,7 @@ dl,dt,dd{
 .memories img{
   border: 10px solid transparent;
   border-image: url(images/usaball.jpeg) 25% round;
-  padding-bottom: 15px;
+  margin-bottom: 15px;
 }
 #captions{
   font-family: 'Oxanium',cursive;
