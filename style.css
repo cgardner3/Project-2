@@ -111,9 +111,9 @@
   font-size: 3.0em;
   color: blue;
 }
-.highlights img{
+.highlights img embed{
   border: 20px solid transparent;
-  border-image: url(images/hawk.png);
+  border-image: url(images/hawk.png) 20% round;
   padding-bottom: 15px;
 }
 .highlights figcaption{
@@ -122,3 +122,4 @@
   color: #4B0082;
   padding-bottom: 15px;
 }
+
