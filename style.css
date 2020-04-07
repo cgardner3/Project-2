@@ -111,10 +111,10 @@
   font-size: 3.0em;
   color: blue;
 }
-.highlights img{
+.highlights img,embed{
   border: 20px solid transparent;
   border-image: url(images/hawk.png) 30% round;
-  padding-bottom: 15px;
+  margin-bottom: 15px;
 }
 .highlights figcaption{
   font-family: 'Jim Nightshade',cursive;
