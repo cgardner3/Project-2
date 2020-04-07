@@ -83,3 +83,42 @@
   list-style-type: square;
   font-size: 100%;
 }
+.headerField{
+  margin: 100px;
+  font-family: 'Jim Nightshade',cursive;
+  font-size: 1.5em;
+  color: #00FA9A;
+  margin-top: 20px;
+}
+#rosterHeader{
+  font-family: 'Clicker Script',cursive;
+  font-size: 54px;
+  color: #FFB6C1;
+  font-style: italic;
+}
+.rosterOfTeam{
+  background-image: url(images/illinoistechsoccer.jpeg);
+  background-size: 100% 100%;
+  list-style-type: circle;
+  font-size: 1.75em;
+  color: #00FF7F;
+  list-style-position: inside;
+  margin-bottom: 15px;
+}
+.highlights h2{
+  font-family: 'Clicker Script',cursive;
+  font-style: italic;
+  font-size: 3.0em;
+  color: blue;
+}
+.highlights img embed{
+  border: 20px solid transparent;
+  border-image: url(images/hawk.png);
+  padding-bottom: 15px;
+}
+.highlights figcaption{
+  font-family: 'Jim Nightshade',cursive;
+  font-size: 1.5em;
+  color: #4B0082;
+  padding-bottom: 15px;
+}
