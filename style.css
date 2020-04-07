@@ -111,7 +111,7 @@
   font-size: 3.0em;
   color: blue;
 }
-.highlights img embed{
+.highlights img{
   border: 20px solid transparent;
   border-image: url(images/hawk.png) 30% round;
   padding-bottom: 15px;
