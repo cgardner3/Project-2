@@ -83,7 +83,7 @@
   list-style-type: square;
   font-size: 100%;
 }
-#title{
+#USSoccerInformation h2{
   font-family: 'Sacramento',cursive;
   font-size: 40px;
   font-style: italic;
@@ -97,14 +97,14 @@ dl,dt,dd{
   font-weight: bold;
   padding: 20px;
 }
-#event{
+.accomplishments p{
   font-family: 'Cantana One',serif;
   font-size: 30px;
   color: #F5F5F5;
   font-weight: bolder;
   margin-top: 10px;
 }
-#records{
+.playerRecords h3 p{
   font-family: 'Trade Winds';
   font-size: 30px;
   font-style: oblique;
