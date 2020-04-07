@@ -71,7 +71,7 @@
   color: darkblue;
   font-size: 100%;
 }
-.mainBody p li{
+.mainBody p,li{
   font-family: 'VT323',monospace;
   color: #7FFFD4;
   font-size: 100%;
@@ -101,7 +101,7 @@ dl,dt,dd{
   font-weight: bolder;
   margin-top: 10px;
 }
-.playerRecords h3 p{
+.playerRecords h3,p{
   font-family: 'Trade Winds';
   font-size: 30px;
   font-style: oblique;
