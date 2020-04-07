@@ -141,9 +141,11 @@ dl,dt,dd{
   color: #FFB6C1;
   font-style: italic;
 }
-.rosterOfTeam li{
+.rosterOfTeam{
   background-image: url(images/illinoistechsoccer.jpeg);
   background-size: 100% 100%;
+}
+.rosterOfTeam li{
   list-style-type: circle;
   font-size: 1.75em;
   color: #00FF7F;
