@@ -58,23 +58,23 @@
   color: brown;
   padding: 20px;
 }
-#mainBody{
+.mainBody{
   font-size: 100%;
   padding-top: 20px;
 }
-#mainBody h2{
+.mainBody h2{
   font-family: 'Georgia',serif;
   color: #8B008B;
 }
-#mainBody h3{
+.mainBody h3{
   font-family: 'Comfortaa',cursive;
   color: darkblue;
 }
-#mainBody p{
+.mainBody p{
   font-family: 'VT323',monospace;
   color: #00BFFF;
 }
-#mainBody ul,li{
+.mainBody ul,li{
   font-family: 'VT323',monospace;
   color: #006400;
   list-style-position: inside;
