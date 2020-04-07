@@ -113,7 +113,7 @@
 }
 .highlights img embed{
   border: 20px solid transparent;
-  border-image: url(images/hawk.png) 20% round;
+  border-image: url(images/hawk.png) 30% round;
   padding-bottom: 15px;
 }
 .highlights figcaption{
