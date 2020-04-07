@@ -87,7 +87,7 @@
   color: gold;
   padding-top: 50px;
 }
-.accomplishments dd{
+.accomplishments dt{
   font-family: 'Andale Mono',monospace;
   font-size: 20px;
   color: violet;
