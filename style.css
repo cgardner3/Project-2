@@ -97,6 +97,26 @@ dl,dt,dd{
   font-weight: bold;
   padding: 20px;
 }
+#event{
+  font-family: 'Cantana One',serif;
+  font-size: 30px;
+  color: #F5F5F5;
+  font-weight: bolder;
+  margin-top: 10px;
+}
+#records{
+  font-family: 'Trade Winds';
+  font-size: 30px;
+  font-style: oblique;
+  color: #FFE4E1;
+  padding-top: 10px;
+}
+.playerRecords li{
+  color: #00DA9A;
+  list-style-type: upper-roman;
+  list-style-position: inside;
+  padding-bottom: 10px;
+}
 .headerField{
   margin: 100px;
   font-family: 'Jim Nightshade',cursive;
