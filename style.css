@@ -59,24 +59,27 @@
   padding: 20px;
 }
 .mainBody{
-  font-size: 100%;
-  padding-top: 20px;
+  margin-top: 20px;
 }
 .mainBody h2{
   font-family: 'Georgia',serif;
   color: #8B008B;
+  font-size: 40px;
 }
 .mainBody h3{
   font-family: 'Comfortaa',cursive;
   color: darkblue;
+  font-size: 100%;
 }
 .mainBody p{
   font-family: 'VT323',monospace;
-  color: #00BFFF;
+  color: #7FFFD4;
+  font-size: 100%;
 }
-.mainBody ul,li{
+.mainBody ul li{
   font-family: 'VT323',monospace;
   color: #006400;
   list-style-position: inside;
   list-style-type: square;
+  font-size: 100%;
 }
