@@ -156,12 +156,12 @@ dl,dt,dd{
   font-size: 3.0em;
   color: blue;
 }
-#cuteEvents img{
+figure img{
   border: 20px solid transparent;
   border-image: url(images/hawk.png) 30% round;
   margin-bottom: 15px;
 }
-#cuteEvents figcaption{
+figure figcaption{
   font-family: 'Jim Nightshade',cursive;
   font-size: 1.5em;
   color: #4B0082;
