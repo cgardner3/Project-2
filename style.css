@@ -52,3 +52,31 @@
   border: 10px solid #87CEFA;
   margin: 100px;
 }
+.myInfo{
+  font-family: 'Georgia',serif;
+  font-size: 20px;
+  color: brown;
+  padding: 20px;
+}
+#mainBody{
+  font-size: 100%;
+  padding-top: 20px;
+}
+#mainBody h2{
+  font-family: 'Georgia',serif;
+  color: #8B008B;
+}
+#mainBody h3{
+  font-family: 'Comfortaa',cursive;
+  color: darkblue;
+}
+#mainBody p,strong{
+  font-family: 'VT323',monospace;
+  color: #00BFFF;
+}
+#mainBody ul,li{
+  font-family: 'VT323',monospace;
+  color: #006400;
+  list-style-position: inside;
+  list-style-type: square;
+}
