@@ -71,12 +71,12 @@
   color: darkblue;
   font-size: 100%;
 }
-.mainBody p,ul,li{
+.mainBody p{
   font-family: 'VT323',monospace;
   color: #7FFFD4;
   font-size: 100%;
 }
-.mainBody ul,li{
+.mainBody ul li{
   list-style-position: inside;
   list-style-type: square;
 }
