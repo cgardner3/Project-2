@@ -71,17 +71,14 @@
   color: darkblue;
   font-size: 100%;
 }
-.mainBody p{
+.mainBody p ul li{
   font-family: 'VT323',monospace;
   color: #7FFFD4;
   font-size: 100%;
 }
 .mainBody ul li{
-  font-family: 'VT323',monospace;
-  color: #006400;
   list-style-position: inside;
   list-style-type: square;
-  font-size: 100%;
 }
 #USSoccerInformation h2{
   font-family: 'Sacramento',cursive;
@@ -152,7 +149,7 @@ dl,dt,dd{
   list-style-position: inside;
   margin-bottom: 15px;
 }
-.highlights h2{
+#memories h2{
   font-family: 'Clicker Script',cursive;
   font-style: italic;
   font-size: 3.0em;
