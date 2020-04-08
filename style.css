@@ -59,7 +59,7 @@
   padding: 20px;
 }
 .mainBody{
-  margin-top: 20px;
+  margin-top: 50px;
 }
 .mainBody h2{
   font-family: 'Georgia',serif;
@@ -69,12 +69,12 @@
 .mainBody h3{
   font-family: 'Comfortaa',cursive;
   color: darkblue;
-  font-size: 100%;
+  font-size: 30px;
 }
 .mainBody p,li{
   font-family: 'VT323',monospace;
   color: #7FFFD4;
-  font-size: 100%;
+  font-size: 20px;
 }
 .mainBody ul li{
   list-style-position: inside;
@@ -85,7 +85,7 @@
   font-size: 50px;
   font-style: italic;
   color: gold;
-  padding-top: 50px;
+  margin-top: 50px;
 }
 .accomplishments dt,dd{
   font-family: 'Andale Mono',monospace;
