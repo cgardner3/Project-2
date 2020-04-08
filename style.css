@@ -82,7 +82,7 @@
 }
 #USSoccerInformation h2{
   font-family: 'Sacramento',cursive;
-  font-size: 40px;
+  font-size: 50px;
   font-style: italic;
   color: gold;
   padding-top: 50px;
@@ -101,9 +101,9 @@
   font-weight: bolder;
   margin-top: 10px;
 }
-.playerRecords h3,p{
+.playerRecords h3{
   font-family: 'Trade Winds';
-  font-size: 30px;
+  font-size: 24px;
   font-style: oblique;
   color: #FFE4E1;
   padding-top: 10px;
