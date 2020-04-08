@@ -143,9 +143,10 @@
   background-size: 100% 100%;
 }
 .rosterOfTeam li{
+  font-family: 'Trattatello',fantasy;
   list-style-type: circle;
   font-size: 1.75em;
-  color: #00FF7F;
+  color: #AFEEEE;
   list-style-position: inside;
   margin-bottom: 15px;
 }
