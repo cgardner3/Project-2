@@ -87,14 +87,14 @@
   color: gold;
   margin-top: 50px;
 }
-.accomplishments dt,dd{
+#accomplishments dt,dd{
   font-family: 'Andale Mono',monospace;
   font-size: 20px;
   color: violet;
   font-weight: bold;
   padding: 20px;
 }
-.accomplishments p{
+#accomplishments p{
   font-family: 'Cantana One',serif;
   font-size: 30px;
   color: #F5F5F5;
